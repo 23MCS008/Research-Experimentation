@@ -37,6 +37,6 @@ plt.imshow(edges, cmap='gray')
 plt.title('Canny Edge Detection')
 plt.axis('off')
 plt.show()
-
+#AAAAAA
 # Download the edge-detected image
 files.download(output_filename)
